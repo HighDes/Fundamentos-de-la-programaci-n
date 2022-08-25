@@ -1,2 +1,2 @@
-# Fundamentos-de-la-programaci-n
+# Fundamentos-de-la-programacion
 Repositorio de la clase fundamentos de la programación
